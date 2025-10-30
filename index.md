@@ -8,3 +8,6 @@
 
 
 <a href="" download=true>Voxelorer Birdひよこ編ステージ作り用ZIPファイル</a>
+
+Unity6000.0.58f2対応
+
