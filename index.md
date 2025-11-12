@@ -8,7 +8,7 @@
 
 ## 書籍で使用するVoxelorer Birdひよこ編のUnityプロジェクト
 
-<a href="VBirdHiyoko-empty-stages.zip" download=true>Voxelorer Birdひよこ編ステージ作り用ZIPファイルのダウンロード</a>
+<a href="VBirdHiyoko-empty-stages.zip" download="VBirdHiyoko-empty-stages.zip">Voxelorer Birdひよこ編ステージ作り用ZIPファイルのダウンロード</a>
 
 - 対応バージョン：Unity6000.0.58f2
 - プロジェクト名：VBirdHiyoko-empty-stages
