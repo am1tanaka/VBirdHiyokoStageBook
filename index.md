@@ -1,13 +1,13 @@
+## 正誤表
 
-【趣味のゲーム開発:レベルデザイン編】
-パズルゲームのステージを作ろう！
-ステージを形にする3つのステップ
-【Voxelorer Birdひよこ編】【Unity6.x対応】
+現在、ありません。
 
-サポートサイト
+お気づきのことやご質問、ご要望がございましたら、<a href="https://github.com/am1tanaka/VBirdHiyokoStageBook/issues">こちらのIssues</a>に書き込みをお願いします。
 
+## 書籍で使用するVoxelorer Birdひよこ編のUnityプロジェクト
 
 <a href="" download=true>Voxelorer Birdひよこ編ステージ作り用ZIPファイル</a>
 
-Unity6000.0.58f2対応
+- Unity6000.0.58f2対応
+
 
