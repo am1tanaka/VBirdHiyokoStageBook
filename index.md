@@ -15,7 +15,7 @@
 
 ## 書籍で作成したイベント用ステージが遊べるページ
 
-- <a href="digiga2025/index.html">Voxelorer Birdひよこ編 デジゲー博2025版 全4ステージ/a>
+- [Voxelorer Birdひよこ編 デジゲー博2025版 全4ステージ](digiga2025/index.html)
 
 ## オリジナルリポジトリー
 
