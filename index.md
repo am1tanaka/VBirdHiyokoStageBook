@@ -13,6 +13,10 @@
 - 対応バージョン：Unity6000.0.58f2
 - プロジェクト名：VBirdHiyoko-empty-stages
 
+## 書籍で作成したイベント用ステージが遊べるページ
+
+- <a href="digiga2025/index.html">Voxelorer Birdひよこ編 デジゲー博2025版 全4ステージ/a>
+
 ## オリジナルリポジトリー
 
 Voxelorer Birdひよこ編を配布しているオリジナルのリポジトリーです。
